@@ -25,6 +25,7 @@ I'm a 3rd year Information Technology (I.T) student.
 
 ## 📊 GitHub Stats
 
+<img src="https://streak-stats.demolab.com?user=Akali03&theme=tokyonight&hide_border=true" alt="Akali03's GitHub Stats" />
 
 ![Robert’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akali03&show_icons=true&theme=radical)
 
