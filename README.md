@@ -23,10 +23,15 @@ I'm a 3rd year Information Technology (I.T) student.
 
 ---
 
-## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=Akali03&theme=tokyonight&hide_border=true" alt="Akali03's GitHub Stats" />
+<div align="center">
+  
+  ## 📊 GitHub Stats
+  
+  ![Robert's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Akali03&show_icons=true&theme=radical)  
+  <br>
+  ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Akali03&theme=radical)  
+  <br>
+  <!--![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Akali03&layout=compact&theme=radical)*/-->
 
-![Robert’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akali03&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akali03&layout=compact&theme=radical) 
+</div>
