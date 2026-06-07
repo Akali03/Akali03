@@ -41,9 +41,3 @@ I'm a self-taught full-stack developer who enjoys building projects and learning
 
 ---
 
-### 🎯 Current Goals
-
-- Strengthen full-stack development skills
-- Build more real-world projects
-- Learn industry best practices
-- Contribute to open-source projects
